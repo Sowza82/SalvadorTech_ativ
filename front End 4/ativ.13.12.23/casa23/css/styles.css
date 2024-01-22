@@ -1,0 +1,44 @@
+
+h1 {
+    text-align: center;
+    color: #af05af; 
+    padding: 10px; 
+}
+
+
+h2.educa {
+    background-color: #cc33b2; 
+    color: #fff; 
+    padding: 10px; 
+}
+
+
+img {
+    width: 150px; 
+    height: auto; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+
+  }
+  
+
+.sobre {
+    background-color: #7e106f; 
+    color: #fff; 
+    padding: 10px; 
+}
+
+.habilidades {
+    background-color: #7e106f; 
+    color: #fff; 
+    padding: 10px; 
+}
+
+
+
+.curiosidade {
+    font-family: 'NomeDaFonte', sans-serif; 
+    background: linear-gradient(to right, #ff00dd79, #ff00f275);
+    color: #333;
+    padding: 10px;
+}
