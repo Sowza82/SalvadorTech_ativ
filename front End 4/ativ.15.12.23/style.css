@@ -5,7 +5,6 @@ body{
 h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
-    text-align: center;
     color: rgb(10, 160, 140);
 }
 
@@ -20,12 +19,4 @@ p{
     color: rgb(9, 110, 110);
 }
 
-.contato{
-    text-align: right;
-}
 
-.habilidades{
-    border: 2px solid #75e6d3;
-    padding: 10px;
-    margin: 10px 0;
-}
