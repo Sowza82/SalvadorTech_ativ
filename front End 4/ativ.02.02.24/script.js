@@ -1,1 +1,0 @@
-const pai = document.queryS

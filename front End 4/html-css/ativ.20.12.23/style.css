@@ -1,0 +1,20 @@
+h1{
+    color: rgb(150, 150, 150);
+    text-align: center;
+}
+
+body{
+   background-color: aquamarine; 
+}
+
+.tecnologias{
+    color: blueviolet;
+    background-color: yellow;
+
+}
+p{
+    font-family: fantasy;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration: overline;
+}
